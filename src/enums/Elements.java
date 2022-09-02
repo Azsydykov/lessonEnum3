@@ -8,8 +8,8 @@ public enum Elements {
     NATRIUM("Натрий", "Na",11),
     ARGON("Аргон", "Ar",18),
     ZINCUM("Цинк", "Zn",30),
+    GALLIUM("Галий", "Ga",31),
     CHLORUM("Хлор", "Cl",17);
-
 
     private String name;
     private String symbol;
