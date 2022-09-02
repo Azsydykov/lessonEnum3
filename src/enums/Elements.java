@@ -9,6 +9,7 @@ public enum Elements {
     ARGON("Аргон", "Ar",18),
     ZINCUM("Цинк", "Zn",30),
     RHODIUM("Родий", "Rh",45),
+    ARGENTUM("Серебро", "Ag",47),
     CHLORUM("Хлор", "Cl",17);
 
 
